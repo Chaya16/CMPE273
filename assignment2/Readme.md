@@ -1,4 +1,4 @@
-## An extension to Assignment 1.
+## An extension to Assignment 1                                                                                                                <https://github.com/Chaya16/CMPE273/tree/master/assignment1>
 
 ### Building another component for the assignment 1 expense management application to achieve the following:
 
