@@ -1,4 +1,4 @@
 The purpose of this assignment is to 
-Markup : * Build a simple expense mamagement system using Python Flask.
-         * Store data generated from the APIs(REST) into MySQL RDBMS using Flask-SQLAlchemy.
-         * Use Docker-compose to wrap your application into a Docker container
+* Build a simple expense mamagement system using Python Flask.
+* Store data generated from the APIs(REST) into MySQL RDBMS using Flask-SQLAlchemy
+* Use Docker-compose to wrap your application into a Docker container
